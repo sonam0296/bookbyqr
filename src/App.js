@@ -11,10 +11,12 @@ import Footer from './Component/Footer';
 import Contact from './Component/Contact';
 import Pricing from './Component/Pricing';
 import Promise from './Component/Promise';
+import Signup from './InternalPages/Signup/Signup';
 function App() {
   return (
     <>
-      <Banner />
+    <Signup/>
+      {/* <Banner />
       <ZastaDoing />
       <ZastaAdvantage/>
       <Promise />
@@ -24,7 +26,7 @@ function App() {
       <Testimonial  />
       <ZastaDashboard/>
       
-      <Contact />
+      <Contact /> */}
       <Footer/>
     </>
   );

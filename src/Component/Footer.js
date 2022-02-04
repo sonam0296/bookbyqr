@@ -11,8 +11,8 @@ const Footer = () => {
                     <div className="row visible-xs">
                         <ul className="mobile-links">
                             <li><a href="/">FAQ & Help</a></li>
-                            <li><a href="/">Impressum</a></li>
-                            <li><a href="/">Datenschutz</a></li>
+                            <li><a href="/">Terms</a></li>
+                            <li><a href="/">Privacy</a></li>
                         </ul>
                     </div>
                     <div className="row hidden-xs">
